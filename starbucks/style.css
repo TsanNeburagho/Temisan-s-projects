@@ -1,0 +1,104 @@
+.story{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    margin-top: 50px;
+    height: 500px;
+    background-color: #d4e9e2;
+    padding: 50px ;
+}
+
+h2{
+    fo
+}
+
+p{
+    
+}
+
+
+
+.starimage{
+    display: flex;
+    width: 50%;
+    height: 60%;
+    margin-top: 50px;
+
+  
+    
+}
+
+
+.appbutton{
+    border-radius: 50px;
+    background-color: transparent;
+    color: black;
+    font-weight: 600;
+    padding: 7px 16px;
+    
+}
+
+
+
+
+.cupimage{
+   
+    height: 400px;
+    width: 50%;
+   
+
+
+}
+
+.thread{
+    display: flex;
+    background-color: #fbbc05;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    margin-top: 50px;
+    height: 500px;
+
+
+}
+
+.ordernwbtn{
+    border-radius: 100px;
+    background-color: transparent;
+    color: black;
+    margin-left: 50px;
+    font-weight: 600;
+    padding: 7px 16px;
+}
+
+.note{
+    display: flex;
+    background-color: #fff4d4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 1.4rem;
+    margin-top: 50px;
+    height: 400px;
+    
+}
+
+.wrapimage{
+    display: flex;
+    width: 700px;
+    height: 350px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.orderbtn{
+    border-radius: 50px;
+    background-color: transparent;
+    color: black;
+    margin-left: 300px;
+    font-weight: 600;
+    padding: 7px 16px;
+}
+
+
+
